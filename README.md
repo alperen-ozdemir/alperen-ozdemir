@@ -1,7 +1,9 @@
 <h1 align="left">◭ Welcome! I'm Alperen Özdemir</h1>
 
 <div align="center">
-  <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/header/header.gif" width="100%" height="auto" />
+  <a href="https://github.com/alperen-ozdemir" target="_blank">
+    <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/header/header.gif" width="100%" height="auto" />
+  </a>
 </div>
 
 <p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut diam vestibulum, bibendum nisl vitae, tincidunt eros. Donec lobortis consequat nunc euismod ornare. Duis nulla arcu, aliquet ultrices porttitor quis, pharetra sed sapien. Mauris ac sem non justo ultrices auctor. Aliquam ut vehicula justo. Suspendisse potenti. Donec at malesuada risus. In elementum ipsum non dolor venenatis, ut fermentum erat facilisis. Nunc condimentum, mi porttitor varius efficitur, lectus lectus efficitur nibh, vitae consectetur tellus enim ultrices ex. Maecenas feugiat, turpis ut ultrices convallis, ligula turpis cursus nunc, id imperdiet sapien enim sit amet lectus. Donec vel tortor molestie, imperdiet velit quis, dignissim sem. Aliquam facilisis metus quis metus consequat lobortis. Etiam convallis sem non orci dictum sodales. Praesent vitae vestibulum libero, in vehicula leo. Phasellus dictum bibendum dui sit amet pulvinar. Curabitur porttitor dui non lacus posuere volutpat.<br><br>Generated 1 paragraph, 137 words, 975 bytes of Lorem Ipsum</p>
