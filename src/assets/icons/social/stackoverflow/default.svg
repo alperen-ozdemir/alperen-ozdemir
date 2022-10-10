@@ -1,31 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
-<desc>Created with Fabric.js 3.5.0</desc>
-<defs>
-</defs>
-<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-<g transform="matrix(1 0 0 1 500 500)" id="149081">
-<g style="" vector-effect="non-scaling-stroke">
-		<g transform="matrix(21.3333 0 0 21.3333 -3.6376 61.5359)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-11.8295, -14.8845)" d="m 6.444 14.839 l 10.338 2.196 l 0.433 -2.089 l -10.338 -2.212 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 -10.7095 141.5359)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-11.498, -18.6345)" d="m 6.215 17.571 h 10.566 v 2.127 h -10.566 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 21.9624 -18.8588)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-13.0295, -11.116)" d="m 7.8 9.831 l 9.572 4.526 l 0.887 -1.944 l -9.577 -4.538 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 114.6027 50.2933)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-17.372, -14.3575)" d="m 17.373 14.358 l -0.001 -0.001 l -0.001 0.001 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 -10.7523 164.5758)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-11.496, -19.7145)" d="m 2 15.429 v 8.571 h 18.992 v -8.571 h -2.113 v 6.428 h -14.766 v -6.428 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 67.8505 -92.2775)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-15.1805, -7.6745)" d="m 10.453 5.063 l 8.109 6.873 l 1.346 -1.65 l -8.109 -6.873 z" stroke-linecap="round"/>
-</g>
-		<g transform="matrix(21.3333 0 0 21.3333 128.0745 -150.6882)">
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(36,41,47); fill-rule: nonzero; opacity: 1;" transform=" translate(-18.0035, -4.9365)" d="m 22 8.587 l -6.302 -8.587 l -1.691 1.286 l 6.302 8.587 z" stroke-linecap="round"/>
-</g>
-</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="426.666" height="512" viewBox="0 0 426.666 512">
+  <g id="Group_1" data-name="Group 1" transform="translate(3579.333 789)">
+    <g id="_149081" data-name="149081" transform="translate(-3596.333 -784)">
+      <g id="Group_8" data-name="Group 8" transform="translate(17 -5)">
+        <g id="Group_1-2" data-name="Group 1" transform="translate(94.805 271.659)">
+          <path id="Path_1" data-name="Path 1" d="M137.472,316.565l220.544,46.848,9.237-44.565L146.709,271.658Z" transform="translate(-137.472 -271.658)" fill="#24292f"/>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(89.92 374.848)">
+          <path id="Path_2" data-name="Path 2" d="M132.586,374.847H357.994v45.376H132.586Z" transform="translate(-132.586 -374.847)" fill="#24292f"/>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(123.733 168)">
+          <path id="Path_3" data-name="Path 3" d="M166.4,209.728l204.2,96.555,18.923-41.472L185.216,168Z" transform="translate(-166.4 -168)" fill="#24292f"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(327.915 306.283)">
+          <path id="Path_4" data-name="Path 4" d="M370.623,306.3l-.021-.021-.021.021Z" transform="translate(-370.581 -306.282)" fill="#24292f"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(0 329.152)">
+          <path id="Path_5" data-name="Path 5" d="M42.667,329.151V512H447.829V329.151H402.751v137.13H87.744V329.151Z" transform="translate(-42.667 -329.151)" fill="#24292f"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(180.331 72.811)">
+          <path id="Path_6" data-name="Path 6" d="M223,108.01,395.989,254.634l28.715-35.2L251.712,72.811Z" transform="translate(-222.997 -72.811)" fill="#24292f"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(256.149)">
+          <path id="Path_7" data-name="Path 7" d="M469.333,183.189,334.89,0,298.816,27.435,433.258,210.624Z" transform="translate(-298.816)" fill="#24292f"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
