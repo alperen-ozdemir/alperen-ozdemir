@@ -14,15 +14,22 @@
   <a href="https://www.linkedin.com/in/alperen-ozdemir/" target="_blank">
     <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/icons/social/linkedin/default.svg" width="42" height="42" alt="linkedin logo"  />
   </a>
+</div>
   &nbsp;
+<div align="right">
   <a href="https://stackoverflow.com/users/11238456" target="_blank">
     <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/icons/social/stackoverflow/default.svg" width="42" height="42" alt="stackoverflow logo"  />
   </a>
+</div>
   &nbsp;
+<div align="right">
   <a href="mailto:alperen.ozdemir@tedu.edu.tr" target="_blank">
     <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/icons/social/gmail/default.svg" width="42" height="42" alt="gmail logo"  />
   </a>
+</div>
   &nbsp;
+  
+<div align="right">
   <a href="https://discordapp.com/users/675811348021772310" target="_blank">
     <img src="https://github.com/alperen-ozdemir/alperen-ozdemir/raw/main/src/assets/icons/social/discord/default.svg" width="42" height="42" alt="discord logo"  />
   </a>
