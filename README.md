@@ -31,10 +31,11 @@
 
 <br>
 
-<p align="left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut diam vestibulum, bibendum nisl vitae, tincidunt eros. Donec lobortis consequat nunc euismod ornare. Duis nulla arcu, aliquet ultrices porttitor quis, pharetra sed sapien. Mauris ac sem non justo ultrices auctor. Aliquam ut vehicula justo. Suspendisse potenti. Donec at malesuada risus. In elementum ipsum non dolor venenatis, ut fermentum erat facilisis. Nunc condimentum, mi porttitor varius efficitur, lectus lectus efficitur nibh, vitae consectetur tellus enim ultrices ex. Maecenas feugiat, turpis ut ultrices convallis, ligula turpis cursus nunc, id imperdiet sapien enim sit amet lectus. Donec vel tortor molestie, imperdiet velit quis, dignissim sem. Aliquam facilisis metus quis metus consequat lobortis. Etiam convallis sem non orci dictum sodales. Praesent vitae vestibulum libero, in vehicula leo. Phasellus dictum bibendum dui sit amet pulvinar. Curabitur porttitor dui non lacus posuere volutpat. <br>
-  <br>Generated 1 paragraph, 137 words, 975 bytes of Lorem Ipsum
+<p align="justify">Hello visitor, I am a Computer Engineer recently working on Java Backend technologies. Additionally, even though I feel guilty pleasure about it, I develop for web platforms using PHP and vanilla JS and for mobile platforms Android and iOS using Java and Swift. I enjoy fast switching between Debian-based distributions. Security applications and research are other areas of interest for me. Additionally, I can state that I frequently automate time-consuming jobs and create bots to complete them. Regarding my interests in technology, I believe that the most recent technology is not always the best. If you want, the platforms at the bottom right will take you to me.
 </p>
 
+<br clear="both">
+<br clear="both">
 <br clear="both">
 
 <div align="right">
