@@ -9,18 +9,22 @@
 
 <div align="right">
   <a href="https://iili.io/QtpeyX.gif" target="_blank">
-    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/open-source-without-getting-any-benefits.svg" />
+    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/open-source-without-getting-any-benefits.svg" alt="The tech giants are making good use of open source, but they're not that great at paying back the community." />
   </a>
   <a href="https://yesterweb.org/no-to-web3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/web3-totally-scam.svg" alt="WEB3 is totally scam"  />
+    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/web3-totally-scam.svg" alt="WEB3 is totally scam."  />
   </a>
   
   <a href="https://medium.com/@AlexCartaz/the-metaverse-web-3-and-nfts-are-bullshit-8cf026e35e01" target="_blank">
-    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/nft-pile-of-garbage.svg" alt="NFT is a pile of garbage"  />
+    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/nft-pile-of-garbage.svg" alt="NFT is a pile of garbag.e"  />
   </a>
   
   <a href="https://news.ycombinator.com/item?id=18128456" target="_blank">
-    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/kubernetes-for-hobby-project.svg" alt="You do not need Kubernetes for the hobby project at all"  />
+    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/kubernetes-for-hobby-project.svg" alt="You do not need Kubernetes for the hobby project at all."  />
+  </a>
+  
+  <a href="https://github.com/alperen-ozdemir" target="_blank">
+    <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/main/src/assets/badges/sorry-not-sorry.svg" alt="Just personal thoughts."  />
   </a>
   
 </div>
