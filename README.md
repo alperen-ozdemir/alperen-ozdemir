@@ -34,7 +34,8 @@
  </a>
 </div>
 
-<br />
+<br>
+<br>
 
 <p align="justify">
  Hello visitor, I am a Computer Engineer recently working on Java Backend technologies. Additionally, even though I feel guilty pleasure about it, I develop for web platforms using PHP and vanilla JS and for mobile platforms Android and iOS
