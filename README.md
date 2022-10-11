@@ -1,4 +1,4 @@
-<h1 align="left">◮ Welcome! I'm Alperen Özdemir</h1>
+
 
 <div align="center">
  <a href="https://github.com/alperen-ozdemir" target="_blank">
