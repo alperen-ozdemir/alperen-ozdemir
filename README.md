@@ -38,7 +38,7 @@
 <br>
 
 <p align="justify">
- Hello visitor, I am a Computer Engineer recently working on Java Backend technologies. Even though I feel guilty pleasure about it, I develop for web platforms using PHP and vanilla JS, for mobile platforms Android and iOS
+ Hello visitor, I am a Computer Engineer recently working on Java backend technologies. Even though I feel guilty pleasure about it, I develop for web platforms using PHP and vanilla JS, for mobile platforms Android and iOS
  using Java and Swift. I enjoy fast switching between Debian-based distributions. Security applications and research are other areas of interest for me. I can state that I frequently automate time-consuming jobs and create
  bots to complete them. Regarding my interests in technology, I believe that the most recent technology is not always the best. If you want, the platforms at the bottom right will take you to me.
 </p>
