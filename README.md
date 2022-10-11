@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/master/src/assets/badges/kubernetes-for-hobby-project.svg" alt="You do not need Kubernetes for the hobby project at all." />
  </a>
 
- <a href="https://github.com/alperen-ozdemir" target="_blank">
+ <a href="https://github.com/runbinary" target="_blank">
   <img
    src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/master/src/assets/badges/run-bin.svg"
    alt="01110000011100100110100101110110011000010111010001100101001000000111000001100101011100100110011001100101011000110111010000100000011011110111001001100111011000010110111001101001011110100110000101110100011010010110111101101110."
