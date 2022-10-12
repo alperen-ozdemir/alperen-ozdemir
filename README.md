@@ -6,7 +6,7 @@
  </a>
 </div>
 
-<div align="right">
+<div align="center">
  <a href="https://iili.io/QtpeyX.gif" target="_blank">
   <img
    src="https://raw.githubusercontent.com/alperen-ozdemir/alperen-ozdemir/master/src/assets/badges/open-source-without-getting-any-benefits.svg"
